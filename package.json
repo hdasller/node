@@ -1,0 +1,20 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "site casa do codigo",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-load": "^1.1.15",
+    "mysql": "^2.12.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "henrique",
+  "license": "ISC"
+}
