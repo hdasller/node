@@ -1,5 +1,5 @@
 var app = require('./config/express')();
 
 app.listen(3000, function (){
-console.log("serdddddasfasfadadfaf masterviasfasdfasdfasfasfafsdor rodando 2");
+console.log("serdddddasfasfaasfasfdadfaf masterviasfasdfasdfasfasfafsdor rodando 2");
 });
