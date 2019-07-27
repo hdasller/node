@@ -1,5 +1,5 @@
 var app = require('./config/express')();
 
 app.listen(3000, function (){
-console.log("servidor rodando 233");
+console.log("servidor rodddando 233");
 });
