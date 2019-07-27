@@ -1,5 +1,5 @@
 var app = require('./config/express')();
 
 app.listen(3000, function (){
-console.log("ser mastervidor rodando 2");
+console.log("serddd mastervidor rodando 2");
 });
